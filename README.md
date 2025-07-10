@@ -1,6 +1,6 @@
 ### Hi, i'm Alfredo🎮
 
-## I am a developer 
+## I'm a developer 
 
 - 🌱  Improving at JavaScript.
 - 🤜🏻🤛🏻   I’m looking to collaborate on **any new project tha can challenge my skills.**
