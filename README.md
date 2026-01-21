@@ -4,7 +4,7 @@
 
 - 🌱  Improving at JavaScript.
 - 🤜🏻🤛🏻   I’m looking to collaborate on **any new project tha can challenge my skills.**
-- - 💻&nbsp; <samp> All of my projects are available. [__here!__](https://github.com/AlfredoMonteiro-dev?tab=repositories)</samp>  
+- 💻&nbsp; <samp> All of my projects are available. [__here!__](https://github.com/AlfredoMonteiro-dev?tab=repositories)</samp>  
 - 📫 How to reach me **alfredolima017@gmail.com**
 - 👨‍🎓&nbsp;<samp>My academic life [__here!__](https://github.com/AlfredoMonteiro-dev/list-of-courses-certifications-master)</samp>
 
