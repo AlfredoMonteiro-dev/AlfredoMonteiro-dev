@@ -6,7 +6,7 @@
 - 🤜🏻🤛🏻   I’m looking to collaborate on **any new project tha can challenge my skills.**
 - 💻 All of my projects are available at https://github.com/AlfredoMonteiro-dev?tab=repositories
 - 📫 How to reach me **alfredolima017@gmail.com**
-- 👨‍🎓&nbsp;<samp>My academic life [__here!__]([https://github.com/mupezzuol/list-of-courses-certifications](https://github.com/AlfredoMonteiro-dev/list-of-courses-certifications-master))</samp>
+- 👨‍🎓&nbsp;<samp>My academic life [__here!__]([https://github.com/mupezzuol/list-of-courses-certifications](https://github.com/AlfredoMonteiro-dev/list-of-courses-certifications-master)</samp>
 
 ### Connect with me:
 
