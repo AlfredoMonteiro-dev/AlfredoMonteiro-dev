@@ -37,9 +37,9 @@
      src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlfredoMonteiro-dev&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
- <!-- <img 
+  <img 
     align="left"
     alt="Top Languages"
     height="200"
    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlfredoMonteiro-dev&layout=compact&custom_title=Linguagens%20mais%20utilizadas:&theme=dark&hide_border=true"
-  />-->
+    />
