@@ -20,11 +20,11 @@
 
 <p align="center">
  
-  <img align="center" alt="HTML" height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="CSS" height="20"  src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge" />
-<img align="center" alt="JavaScript" height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
-<img align="center" alt="react" height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="center" alt="TypeScript" height="20" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img align="center" alt="HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="center" alt="CSS" height="30"  src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge" />
+<img align="center" alt="JavaScript" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
+<img align="center" alt="react" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="center" alt="TypeScript" height="30" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
     
 </p>
 
