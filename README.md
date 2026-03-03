@@ -5,7 +5,7 @@
 - 🌱  Improving at JavaScript.
 - 🤜🏻🤛🏻   I’m looking to collaborate on **any new project tha can challenge my skills.**
 - 💻&nbsp; <samp> All of my projects are available. [__here!__](https://github.com/AlfredoMonteiro-dev?tab=repositories)</samp>  
-- 📫 How to reach me **alfredolima017@gmail.com**
+- 📫 How to reach me **alfredo.developer29@gmail.com**
 - 👨‍🎓&nbsp;<samp>My academic life [__here!__](https://github.com/AlfredoMonteiro-dev/list-of-courses-certifications-master)</samp>
 
 ### Connect with me:
@@ -24,6 +24,7 @@
     <img allign="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img allign="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       <img allign="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+       <img allign="center" alt="TypeScript" src="https://camo.githubusercontent.com/42136141f287a74b3e03a32487c33cf87ea59eda97a76d3366836ae080c99bcb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d666c6174266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" />
     
 </p>
 
