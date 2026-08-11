@@ -31,18 +31,8 @@
 </p>
 
 <br>
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-     src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlfredoMonteiro-dev&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
 
-  <img 
-    align="left"
-    alt="Top Languages"
-    height="200"
-   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlfredoMonteiro-dev&layout=compact&custom_title=Linguagens%20mais%20utilizadas:&theme=dark&hide_border=true"
-    />
+
+  <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2c5364,50:203a43,100:0f2027" alt="footer"/>
+</div>
